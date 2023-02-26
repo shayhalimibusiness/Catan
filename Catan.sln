@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGitHub", "TestGitHub\TestGitHub.csproj", "{528E4BF4-ACC6-4C36-936E-8D9C8F0481B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catan", "Catan\Catan.csproj", "{DE7EF9F0-DA4F-4178-B4BA-747E3F38F02A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{528E4BF4-ACC6-4C36-936E-8D9C8F0481B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{528E4BF4-ACC6-4C36-936E-8D9C8F0481B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{528E4BF4-ACC6-4C36-936E-8D9C8F0481B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{528E4BF4-ACC6-4C36-936E-8D9C8F0481B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7EF9F0-DA4F-4178-B4BA-747E3F38F02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7EF9F0-DA4F-4178-B4BA-747E3F38F02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7EF9F0-DA4F-4178-B4BA-747E3F38F02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7EF9F0-DA4F-4178-B4BA-747E3F38F02A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
